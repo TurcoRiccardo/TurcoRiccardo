@@ -1,6 +1,6 @@
 # Hi there, I'm Riccardo! 👋
 
-I am a **Computer Engineer** specialized in **Artificial Intelligence** from Politecnico di Torino. Currently, I work as a **Full Stack Developer** (Consultant @ Blue Reply), bridging the gap between robust backend logic and dynamic frontend interfaces.
+I am a **Computer Engineer** specialized in **Artificial Intelligence** from Politecnico di Torino. Currently, I work as a **Full Stack Developer**, bridging the gap between robust backend logic and dynamic frontend interfaces.
 
 ---
 

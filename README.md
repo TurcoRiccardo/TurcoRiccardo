@@ -22,7 +22,7 @@ I am a **Computer Engineer** specialized in **Artificial Intelligence** from Pol
 
 ---
 
-📫 **How to reach me:** [[Link to your LinkedIn](https://www.linkedin.com/in/riccardo-daniele-turco)]
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/riccardo-daniele-turco)
 
 <!--
 **TurcoRiccardo/TurcoRiccardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
